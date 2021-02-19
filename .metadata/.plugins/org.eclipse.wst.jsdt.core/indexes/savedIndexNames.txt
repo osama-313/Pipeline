@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+C:\Users\osama\Desktop\PipelineProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-299148812.index
-589515422.index
